@@ -16,7 +16,7 @@ This project performs sentiment analysis on the messages of the telegram channel
 7. tqdm==4.62.3
 
 ## Workflow Diagram of the project
-![alt text](http://url/to/img.png)
+![alt text](assets/workflow_diagram.png)
 
 ## Steps to Execute the project
 1. Clone this repository
