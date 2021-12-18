@@ -35,6 +35,10 @@ On execution of the project, the progress of the execution will be visible in th
 
 ![Execution Progress Report](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/execution_progress_report.PNG)
 
+On COMPLETION of project execution, the completion report of the execution will be visible in the following manner:
+
+![Execution Progress Report](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/execution_completion_report.PNG)
+
 ## Output
 
 We create the following plots after performing sentiment analysis on the data:
