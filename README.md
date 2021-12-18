@@ -40,9 +40,11 @@ On execution of the project, the progress of the execution will be visible in th
 We create the following plots after performing sentiment analysis on the data:
 
 1. Number of messages per day
+
 ![Number of Messages Per Day](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/number_of_messages_per_day.PNG)
 
 2. Average sentiment per day
+
 ![Average Sentiment Per Day](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/average_sentiment_per_day.PNG)
 
 
