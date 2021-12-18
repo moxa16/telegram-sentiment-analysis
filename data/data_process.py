@@ -52,7 +52,6 @@ class DataProcess(BaseDataProcess):
         logger.info('make texts lower case...'.title())
         _data['text'] = _data['text'].str.lower()
 
-        _data = pd.read_csv('assets/isshibdogechkpt.csv')
 
         # filter 'shib' and 'doge'
         logger.info("filter in 'shib' and 'doge' only...".title())
