@@ -16,7 +16,7 @@ This project performs sentiment analysis on the messages of the telegram channel
 7. tqdm==4.62.3
 
 ## Workflow Diagram of the project
-![alt text](assets/workflow_diagram.png)
+![Workflow Diagram](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/workflow_diagram.PNG)
 
 ## Steps to Execute the project
 1. Clone this repository
@@ -33,17 +33,17 @@ This project performs sentiment analysis on the messages of the telegram channel
 
 On execution of the project, the progress of the execution will be visible in the following manner:
 
-![alt text](http://url/to/img.png)
+![Execution Progress Report](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/execution_progress_report.PNG)
 
 ## Output
 
 We create the following plots after performing sentiment analysis on the data:
 
 1. Number of messages per day
-![alt text](http://url/to/img.png)
+![Number of Messages Per Day](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/number_of_messages_per_day.PNG)
 
 2. Average sentiment per day
-![alt text](http://url/to/img.png)
+![Average Sentiment Per Day](https://github.com/moxa16/telegram-sentiment-analysis/blob/main/assets/average_sentiment_per_day.PNG)
 
 
 # Description of folders and files in the repository
